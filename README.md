@@ -189,7 +189,7 @@ In summary, this app uses React to fetch data from an external API, allow the us
 
 To install and run this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/example/example.git`
+1. Clone the repository: `git clone https://github.com/mmartins23/meme-generator.git`
 2. Change into the project directory: `cd example`
 3. Install dependencies: `npm install`
 4. Run the app: `npm start`
