@@ -4,6 +4,8 @@ This project is a simple meme generator app built with React.
 
 The app allows users to generate memes by selecting an image from a list of popular memes, entering custom text for the top and bottom of the meme, and then clicking a button to generate a new meme.
 
+[Launch Live Preview](https://lucky-rugelach-9d52a0.netlify.app/)
+
 ## Table of Contents
 
 - [Features](#features)
